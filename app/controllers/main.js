@@ -1,5 +1,8 @@
 var nguoiDung = new NguoiDungService();
 
+function helloWorld() {
+    console.log("1234555");
+}
 function layDanhSach() {
     nguoiDung
         .layDanhSachNguoiDung()
