@@ -1,5 +1,9 @@
 var nguoiDung = new NguoiDungService();
 
+function helloWorld() {
+    console.log("1234555-Lan2")
+}
+
 function layDanhSach() {
     nguoiDung
         .layDanhSachNguoiDung()
